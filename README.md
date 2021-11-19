@@ -6,6 +6,6 @@ Yes, you can already make both of these in Logic World, but these could be prefe
 
 I will re-copy-fu each time they update the base game as long as they don't add their own versions of these gates.
 
-Since I could not get the x-menu to show up to change how many inputs the component has, I added 3 variants of each gate into right into the menu.
+Since I could not get the x-menu to show up to change how many inputs the component has, I added 3 variants of each gate into the components menu.
 
 Poke me on discord if there is an issue or I forget to update it!
