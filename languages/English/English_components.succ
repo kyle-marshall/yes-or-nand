@@ -1,0 +1,7 @@
+yes-or-nand.OrGate: "Or Gate"
+yes-or-nand.OrGate3: "Or Gate (3 inputs)"
+yes-or-nand.OrGate4: "Or Gate (4 inputs)"
+yes-or-nand.NandGate: "Nand Gate"
+yes-or-nand.NandGate3: "Nand Gate (3 inputs)"
+yes-or-nand.NandGate4: "Nand Gate (4 inputs)"
+ComponentColumn.YesOrNand: "More Logic"

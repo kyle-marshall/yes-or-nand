@@ -1,0 +1,35 @@
+OrGate:
+    column: "YesOrNand"
+    prefab: dynamic
+    placingRules: dynamic
+    logicCode: YesOrNand.Server.OrGate
+
+OrGate3:
+    column: "YesOrNand"
+    prefab: dynamic
+    placingRules: dynamic
+    logicCode: YesOrNand.Server.OrGate
+
+OrGate4:
+    column: "YesOrNand"
+    prefab: dynamic
+    placingRules: dynamic
+    logicCode: YesOrNand.Server.OrGate
+
+NandGate:
+    column: "YesOrNand"
+    prefab: dynamic
+    placingRules: dynamic
+    logicCode: YesOrNand.Server.NandGate
+
+NandGate3:
+    column: "YesOrNand"
+    prefab: dynamic
+    placingRules: dynamic
+    logicCode: YesOrNand.Server.NandGate
+
+NandGate4:
+    column: "YesOrNand"
+    prefab: dynamic
+    placingRules: dynamic
+    logicCode: YesOrNand.Server.NandGate
